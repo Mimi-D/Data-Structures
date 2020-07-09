@@ -15,6 +15,7 @@ to run the code in pycharm
 
 to access my github kindly use the link:
 https://github.com/Mimi-D/Data-Structures.git
-1. You can download or clone the code to your comuputer. By clicking the green "clone or download repository" button 
-2. Note that to clone, git has to be installed on your machine
+1. You can download or clone the code to your comuputer.
+2. Download by clicking the green "code" button: click on "Download Zip" 
+2. To clone click on "Open with Git Desktop" if git is already installed on your machine
 3. Run with a any python IDE of your choice.
