@@ -1,4 +1,4 @@
-def letterToIndex(ch):
+def letterPosition(ch):
     alphabet='abcdefghijklmnopqrstuvwxyz'
     num=ord(ch.lower())
     if num<97 or num>122:
@@ -6,4 +6,5 @@ def letterToIndex(ch):
     else:
         value=chr(num)
         find=alphabet.find(value)
-        return find
+        postion=find+1
+        return position
