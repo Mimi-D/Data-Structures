@@ -8,4 +8,10 @@ but i decided to add a for loop as an error control(just to make it more comlica
 which takes integer argument and return the string representing a character at that code point and vice versa(www.journaldev.com)
 
 to run the code in pycharm
-1. first save the file
+1. first save the file to your system
+2. run normally using pycharm protocol, that is before calling the function in main first run "from dsa import *"
+3. Call the function e.g letterToIndex("d") 
+4. Do not forget to enclose the parameter passed in quotes
+
+to access my github kindly use the link:
+https://github.com/Mimi-D/Data-Structures.git
